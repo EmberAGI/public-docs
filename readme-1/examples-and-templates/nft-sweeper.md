@@ -1,9 +1,8 @@
 ---
-description: >-
-  A simple yield manager leveraging Superform, Lit, and RIG to automatically
-  rebalance your position to the best available within your selected
-  constraints.
 icon: drone
+description: >-
+  A simple NFT agent Magic Eden, Lit, and Eliza to sweep the floor on the user's
+  choice of an NFT collection.
 ---
 
 # NFT Sweeper

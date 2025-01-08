@@ -1,13 +1,11 @@
 ---
 icon: hive
-description: We support a wealth of Chains and Protocols for your agents to act on
+description: >-
+  We support a wealth of Chains and Protocols for your agents to get data from
+  and act on.
 ---
 
 # Chains and Protocols
-
-
-
-
 
 <details>
 
@@ -17,6 +15,7 @@ description: We support a wealth of Chains and Protocols for your agents to act 
 * Solana
 * Ethereum
 * Arbitrum
+* SEI
 * Avalanche
 * Linea
 * Base
@@ -30,6 +29,7 @@ description: We support a wealth of Chains and Protocols for your agents to act 
 * Osmosis
 * Cosmos Hub
 * Kujira
+* Injective
 * Axelar
 * Terra
 * Agoric
@@ -42,7 +42,7 @@ description: We support a wealth of Chains and Protocols for your agents to act 
 
 <summary>Protocols and dapps</summary>
 
-#### DEXs and LPs
+#### DEXs, Routers and LPs
 
 * Raydium
 * Orca
@@ -50,11 +50,16 @@ description: We support a wealth of Chains and Protocols for your agents to act 
 * Uniswap
 * Meteora
 * Jupiter
+* Squid
+* Mayan
+* Li.Fi
 * SUN
+* Oogabooga (Coming soon...)
 
 #### NFT Marketplaces
 
 * Magic Eden
+* Blur (Coming soon...)
 
 #### Derivatives and Perpetuals
 
@@ -73,32 +78,24 @@ description: We support a wealth of Chains and Protocols for your agents to act 
 * Yearn
 * Jito
 * Lulo
-* Justlend
 * Compound
+* Peapods
+* Justlend (Coming soon...)
 
 #### Governance
 
 * Tally
-* Snapshot
+* Snapshot (Coming soon...)
 
 
 
 </details>
 
+*
 
 
 
 
 
-
-\- Jito
-
-\- Lulo
-
-\- Gearbox
-
-\- Meteora
-
-\
 \
 \

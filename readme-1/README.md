@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Docs
+# Frameworks
 
-All the high level documentation
+All the high level documentation around framework support and implementation examples for additional plugins and SDKs
 

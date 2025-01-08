@@ -55,6 +55,7 @@ description: >-
 * Li.Fi
 * SUN
 * Oogabooga (Coming soon...)
+* And many, many more...
 
 #### NFT Marketplaces
 
@@ -90,10 +91,6 @@ description: >-
 
 
 </details>
-
-*
-
-
 
 
 

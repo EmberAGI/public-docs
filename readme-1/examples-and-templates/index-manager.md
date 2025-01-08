@@ -1,10 +1,10 @@
 ---
+icon: drone
 description: >-
   A simple agent using LunrCrush, Lit, and RIG that automatically manages a
-  memecoin index and can be LPd into and redeemed.
-icon: drone
+  memecoin index based on mindshare, and can be LPd into and redeemed.
 ---
 
-# Index
+# Index Manager
 
 Coming Soon.

@@ -6,7 +6,7 @@ This guide demonstrates how to create your first agent using the Ember SDK and R
 
 First, let's set up our dependencies:
 
-```toml:Cargo.toml
+```rust
 [dependencies]
 rig = "0.1.0"
 ember-sdk = "0.1.0"
@@ -19,7 +19,7 @@ serde_json = "1.0"
 
 Let's create a tool that Rig agents can use to execute swaps:
 
-```rust:src/tools/swap_tool.rs
+```rust
 use ember_sdk::{EmberClient, CreateSwapParams, SwapType, TokenIdentifier};
 use rig::tool::{Tool, ToolError};
 use serde::{Deserialize, Serialize};
@@ -91,7 +91,7 @@ impl Tool for SwapTool {
 
 Now let's create an agent that can use our swap tool:
 
-```rust:src/main.rs
+```rust
 use rig::{providers::anthropic, Agent};
 use ember_sdk::EmberClient;
 
@@ -127,7 +127,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 Here's how to handle the transaction signing and submission process:
 
-```rust:src/tools/swap_tool.rs
+```rust
 // Add this to the SwapTool implementation
 async fn execute_signed_transaction(
     &self,
@@ -149,6 +149,7 @@ async fn execute_signed_transaction(
 ## Best Practices
 
 1. **Error Handling**: Always implement proper error handling and recovery mechanisms:
+
 ```rust
 match client.create_swap(swap_params).await {
     Ok(plan) => {
@@ -167,6 +168,7 @@ match client.create_swap(swap_params).await {
 ```
 
 2. **Transaction Monitoring**: Monitor transaction status using WebSockets:
+
 ```rust
 use ember_sdk::{EmberWebSocket, StreamTransactionsParams};
 
@@ -190,6 +192,7 @@ async fn monitor_transaction(ws: &EmberWebSocket, tx_hash: String) {
 ```
 
 3. **Token Validation**: Always validate token addresses before creating transactions:
+
 ```rust
 async fn validate_token(&self, token: &str) -> Result<(), ToolError> {
     let params = GetTokenDataParams {
@@ -207,9 +210,10 @@ async fn validate_token(&self, token: &str) -> Result<(), ToolError> {
 ## Conclusion
 
 This guide demonstrated how to:
-- Create a Rig tool for Ember SDK swap functionality
-- Set up a Rig agent with swap capabilities
-- Handle transaction signing and submission
-- Implement best practices for error handling and monitoring
 
-Remember to always handle your private keys securely and never expose them in your code. Consider using environment variables or secure key management solutions for production deployments. 
+* Create a Rig tool for Ember SDK swap functionality
+* Set up a Rig agent with swap capabilities
+* Handle transaction signing and submission
+* Implement best practices for error handling and monitoring
+
+Remember to always handle your private keys securely and never expose them in your code. Consider using environment variables or secure key management solutions for production deployments.

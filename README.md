@@ -32,8 +32,8 @@ Ember is built specifically for AI agent development, not retrofitted.
 * **Built for LLMs:** Simple, well documented tool interfaces that let agents dynamically select and compose tools
 * **Actions-as-a-service:** Instant access with wallet authentication. Pay-as-you-go, flat-rate crypto payments for usage.
 
-{% content-ref url="readme-1/quickstart-guides/" %}
-[quickstart-guides](readme-1/quickstart-guides/)
+{% content-ref url="readme-1/quickstart-guides.md" %}
+[quickstart-guides.md](readme-1/quickstart-guides.md)
 {% endcontent-ref %}
 
 {% content-ref url="workflow-library/" %}

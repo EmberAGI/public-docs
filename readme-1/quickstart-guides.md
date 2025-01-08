@@ -1,6 +1,6 @@
 ---
-description: A short guide to you first agent on all the major frameworks
 icon: bolt-lightning
+description: A short guide to you first agent on all the major agent creation frameworks
 ---
 
 # Quickstart Guides

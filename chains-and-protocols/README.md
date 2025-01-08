@@ -1,52 +1,95 @@
 ---
-description: We support a wealth of Chains and Protocols for your agents to act on
 icon: hive
+description: We support a wealth of Chains and Protocols for your agents to act on
 ---
 
 # Chains and Protocols
 
+
+
+
+
+<details>
+
+<summary>Blockchains</summary>
+
+* BTC
+* Solana
 * Ethereum
 * Arbitrum
+* Avalanche
+* Linea
 * Base
-* Blast
-* Solana
-* BTC
-* Lightning
+* Mode
+* Optimism
+* Metis
+* Manta
 * Berachain
 * TRON
 * TON
+* Osmosis
+* Cosmos Hub
+* Kujira
+* Axelar
+* Terra
+* Agoric
+* Celestia
+* And many, many more...
 
-\- GMX
+</details>
 
-\- dydx
+<details>
 
-\- MagicEden
+<summary>Protocols and dapps</summary>
 
-\- Lido
+#### DEXs and LPs
 
-\- Tally
+* Raydium
+* Orca
+* Camelot
+* Uniswap
+* Meteora
+* Jupiter
+* SUN
 
-\- Snapshot
+#### NFT Marketplaces
 
-\- Aave
+* Magic Eden
 
-\- Ethena
+#### Derivatives and Perpetuals
 
-\- Morpho
+* DYDX
+* GMX
+* Pendle
+* Ethena
 
-\- Pendle
+#### LSDs, Yield and Lending
 
-\- Euler
+* Lido
+* Morpho
+* Aave
+* Euler
+* Gearbox
+* Yearn
+* Jito
+* Lulo
+* Justlend
+* Compound
 
-\- Gearbox
+#### Governance
 
-\- Yearn
+* Tally
+* Snapshot
 
-\- Jupiter
 
-\- Raydium&#x20;
 
-\- Orca
+</details>
+
+
+
+
+
+
 
 \- Jito
 

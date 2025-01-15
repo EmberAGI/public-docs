@@ -2,7 +2,7 @@
 icon: robot
 ---
 
-# Ember Agent SDK
+# Ember Agent Rust SDK
 
 Welcome to the Ember Rust SDK documentation. This SDK provides comprehensive Rust bindings for Ember's DeFi operations across multiple blockchain networks.
 
@@ -16,6 +16,7 @@ The Ember Rust SDK enables developers to:
 * Stake tokens and manage yield farming positions
 * Stream real-time price and position updates
 * Access social sentiment data
+* Participate in governance protocols
 
 ## Key Features
 

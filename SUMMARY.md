@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting started](README.md)
-* [Ember Agent SDK](ember-agent-sdk/README.md)
+* [Ember Agent Rust SDK](ember-agent-sdk/README.md)
   * [Getting Started](ember-agent-sdk/getting-started/README.md)
     * [Installation & Setup](ember-agent-sdk/getting-started/installation.md)
     * [Basic Configuration](ember-agent-sdk/getting-started/configuration.md)
@@ -18,6 +18,7 @@
     * [Lending & Borrowing](ember-agent-sdk/defi/lending-borrowing.md)
     * [Staking](ember-agent-sdk/defi/staking.md)
     * [Yield Farming](ember-agent-sdk/defi/yield.md)
+  * [Governance Operations](ember-agent-sdk/governance-operations.md)
   * [Advanced Features](ember-agent-sdk/advanced-features/README.md)
     * [WebSocket Streaming](ember-agent-sdk/advanced/websockets.md)
     * [Social Sentiment Analysis](ember-agent-sdk/advanced/social-sentiment.md)

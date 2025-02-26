@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting started](README.md)
+* [Ember Agent TypeScript SDK](ember-agent-typescript-sdk.md)
 * [Ember Agent Rust SDK](ember-agent-sdk/README.md)
   * [Getting Started](ember-agent-sdk/getting-started/README.md)
     * [Installation & Setup](ember-agent-sdk/getting-started/installation.md)
@@ -47,4 +48,3 @@
     * [Pendle](chains-and-protocols/ethereum/pendle.md)
   * [Solana](chains-and-protocols/solana/README.md)
     * [Raydium](chains-and-protocols/solana/raydium.md)
-* [Ember Agent TypeScript SDK](ember-agent-typescript-sdk.md)

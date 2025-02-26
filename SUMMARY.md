@@ -47,3 +47,4 @@
     * [Pendle](chains-and-protocols/ethereum/pendle.md)
   * [Solana](chains-and-protocols/solana/README.md)
     * [Raydium](chains-and-protocols/solana/raydium.md)
+* [Ember Agent TypeScript SDK](ember-agent-typescript-sdk.md)

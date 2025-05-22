@@ -8,7 +8,7 @@
 #### DEXs (LP)
 
 * Camelot
-* Uniswap (Coming soon...)
+* Uniswap&#x20;
 * Fluid (Coming soon...)
 
 #### NFT Marketplaces
@@ -17,8 +17,8 @@
 
 #### Derivatives and Perpetuals
 
-* GMX (Coming soon...)
-* Pendle (Coming soon...)
+* GMX&#x20;
+* Pendle
 
 #### LSDs, Yield and Lending
 

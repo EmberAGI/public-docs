@@ -1,6 +1,6 @@
 # Lending and Borrowing
 
-Users can supply tokens as collateral to borrow other assets or lend them out to earn interest. Key actions include:
+Enable users to supply tokens as collateral to borrow other assets or lend them out to earn interest. Key actions include:
 
 * Supply tokens to earn yield
 * Use supplied tokens as collateral
@@ -10,8 +10,13 @@ Users can supply tokens as collateral to borrow other assets or lend them out to
 
 #### Supported Chains
 
-* Arbitrum (`42161`)
-* Base (`8453`)
-* Optimism (`10`)
-* Polygon (`137`)
-* Ethereum Mainnet (`1`)
+{% tabs %}
+{% tab title="Major EVM Netwroks" %}
+1. Arbitrum (`42161`)
+2. Base (`8453`)
+3. Optimism (`10`)
+4. Polygon (`137`)
+5. Ethereum Mainnet (`1`)
+{% endtab %}
+{% endtabs %}
+

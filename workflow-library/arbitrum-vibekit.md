@@ -1,3 +1,5 @@
 # Arbitrum Vibekit
 
-[Arbitrum Vibekit](https://ember-ai.gitbook.io/arbitrum-agentkit) is a powerful framework for building automated DeFi agents. It enables the development of on-chain agents that can execute autonomous operations—from basic token transfers to complex DeFi interactions—while integrating both on-chain and off-chain data sources. The framework provides production-ready templates and implementations across various DeFi sectors, enabling developers to deploy custom agents within minutes. For detailed implementation examples, explore Vibekit's [example agents](https://github.com/EmberAGI/arbitrum-vibekit/tree/main/typescript/examples).
+[Arbitrum Vibekit](https://ember-ai.gitbook.io/arbitrum-vibekit) is a powerful framework for building automated DeFi agents. It helps developers create on-chain agents that can handle a variety of autonomous tasks by combining both on-chain and off-chain data. Vibekit speeds up development by offering production-ready templates and examples that enables anyone to deploy custom agents within minutes. To see these capabilities in action, check out Vibekit's [example agents](https://github.com/EmberAGI/arbitrum-vibekit/tree/main/typescript/examples).
+
+<figure><img src="../.gitbook/assets/Flow Chart.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # Lending and Borrowing
 
-Enable users to supply tokens as collateral to borrow other assets or lend them out to earn interest. Key actions include:
+One of Ember’s core capabilities is supporting lending and borrowing protocols across multiple chains. This allows users to interact with DeFi markets in a variety of ways, such as:
 
 * Supply tokens to earn yield
 * Use supplied tokens as collateral
@@ -8,7 +8,7 @@ Enable users to supply tokens as collateral to borrow other assets or lend them 
 * Repay borrowed positions
 * Withdraw previously supplied tokens
 
-#### Supported Chains
+#### Supported Chains:
 
 {% tabs %}
 {% tab title="Major EVM Netwroks" %}

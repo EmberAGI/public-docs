@@ -1,6 +1,6 @@
 # Token Swaps & Management
 
-Enables users to exchange one token for another at determined rates. Key features include:
+Ember makes it easy to swap tokens across supported protocols and chains, giving users flexible options for trading digital assets. Key features include:
 
 * Direct token exchanges
 * Cross-chain swaps

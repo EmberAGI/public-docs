@@ -1,6 +1,6 @@
 # Liquidity Provision & Management
 
-Ember facilitates participation in decentralized exchange (DEX) liquidity pools, a cornerstone of automated market makers (AMMs). Users can contribute assets to these pools to enable trading for others and, in return, earn a share of the transaction fees. Ember provides tools to manage these activities comprehensively. Key actions include:
+Ember enables users to participate in decentralized exchange (DEX) liquidity pools, which are essential to automated market makers (AMMs). By contributing tokens to these pools, users help facilitate trading and, in return, earn a portion of the transaction fees. Ember offers intuitive tools to manage and monitor these activities. Key actions include:
 
 * Supply assets to liquidity pools
 * Withdraw assets from liquidity pools

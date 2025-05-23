@@ -1,6 +1,6 @@
 # Agent Use Cases
 
-Ember enables the creation and management of AI agents capable of interacting with various blockchain networks, data sources, and decentralized protocols. The following includes some example use cases:
+Ember enables you to create and manage AI agents that can connect to different blockchains, data sources, and decentralized apps. Here are some example use cases:
 
 * [x] **Yield Manager:** This agent continuously optimizes and rebalances your position within your specified constraints.
 * [x] **NFT Sweeper:** This agent automatically sweeps the floor of your chosen collection or executes buys based on AI‑driven social and market analysis.

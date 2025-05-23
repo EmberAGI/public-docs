@@ -4,4 +4,6 @@
 
 Ember serves as the core connectivity layer within Vibekit, powering its agent framework with access to DeFi protocols and on-chain services. By leveraging Ember’s MCP interfaces, Vibekit agents can easily interact with a wide range of decentralized networks and data sources, making it simple for developers to build, deploy, and manage advanced DeFi automation without worrying about low-level integrations.
 
+Here’s an overview of how everything fits together:
+
 <figure><img src="../.gitbook/assets/Flow Chart.png" alt=""><figcaption></figcaption></figure>

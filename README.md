@@ -34,7 +34,7 @@ Ember's MCP-powered connectivity establishes a declarative DeFi layer, enabling 
 
 **Withdraw Liquidity:** Withdraw assets from a liquidity position in a pool.
 
-**Get Liquidity Pools:** Retrieve a list of available liquidity pools. This provides Market Data on available investment opportunities.
+**Get Liquidity Pools:** Retrieve a list of available liquidity pools. This provides market data on available investment opportunities.
 
 **Get User Liquidity Positions:** Fetch a user's current liquidity positions.&#x20;
 

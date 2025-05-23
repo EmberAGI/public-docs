@@ -1,11 +1,8 @@
-# What is Ember?
+# Introduction
 
-## Overview
+Ember is a powerful MCP (Model Context Protocol) server that acts as a one-stop solution for managing and executing complex DeFi operations across multiple chains. By providing simple, well-documented interfaces, Ember empowers AI agents and LLMs to dynamically select, compose, and interact with DeFi protocols without the need for custom implementations.&#x20;
 
-* Ember is a powerful MCP (Model Context Protocol) server that enables AI agents to interact with DeFi protocols or on-chain services without requiring custom implementations.&#x20;
-* Ember features simple, well-documented interfaces that empower LLMs to dynamically select and compose tools.&#x20;
-* Ember's MCP-powered connectivity establishes a declarative DeFi layer, which not only enables AI agents to interpret and execute user intents but also offers developers a unified interface to the entire DeFi ecosystem.&#x20;
-* Ember serves as a one-stop solution for managing and executing complex DeFi operations across various chains. Developers can use Ember's rich market data to create custom DeFi strategies.
+Ember's MCP-powered connectivity establishes a declarative DeFi layer, enabling agents to interpret and execute user intents while offering developers a unified interface to the entire DeFi ecosystem. With access to rich market data, developers can leverage Ember to create custom DeFi strategies and effortlessly automate advanced workflows.
 
 
 
@@ -13,33 +10,33 @@
 
 <details>
 
-<summary>Core Defi Operations</summary>
+<summary>Core DeFi Operations</summary>
 
 #### 1. Token Swaps & Management
 
-**swapTokens:** Exchange one token for another across numerous supported DEXs and chains.
+**Swap Tokens:** Exchange one token for another across numerous supported DEXs and chains.
 
-**getTokens:** Retrieve a list of supported tokens, filterable by chain ID and other criteria. This contributes to Market Data by providing information on available assets.
+**Get Tokens:** Retrieve a list of supported tokens, filterable by chain ID and other criteria. This contributes to Market Data by providing information on available assets.
 
 #### 2. Lending & Borrowing
 
-**supply:** Deposit tokens into lending protocols to earn yield or use as collateral.
+**Supply:** Deposit tokens into lending protocols to earn yield or use as collateral.
 
-**borrow:** Borrow tokens from lending protocols against supplied collateral.
+**Borrow:** Borrow tokens from lending protocols against supplied collateral.
 
-**repay:** Repay borrowed tokens.
+**Repay:** Repay borrowed tokens.
 
-**withdraw:** Withdraw previously supplied tokens from lending protocols.
+**Withdraw:** Withdraw previously supplied tokens from lending protocols.
 
 #### 3. Liquidity Provision & Management
 
-**supplyLiquidity:** Supply assets to liquidity pools on DEXs (e.g., providing two tokens to a pair).
+**Supply Liquidity:** Supply assets to liquidity pools on DEXs (e.g., providing two tokens to a pair).
 
-**withdrawLiquidity:** Withdraw assets from a liquidity position in a pool.
+**Withdraw Liquidity:** Withdraw assets from a liquidity position in a pool.
 
-**getLiquidityPools:** Retrieve a list of available liquidity pools. This provides Market Data on available investment opportunities.
+**Get Liquidity Pools:** Retrieve a list of available liquidity pools. This provides Market Data on available investment opportunities.
 
-**getUserLiquidityPositions:** Fetch a user's current liquidity positions. This is part of Wallet Context and Position Management.
+**Get User Liquidity Positions:** Fetch a user's current liquidity positions. This is part of Wallet Context and Position Management.
 
 </details>
 
@@ -47,13 +44,13 @@
 
 <summary>Market Data &#x26; Protocol Information</summary>
 
-**getTokens:** Provides data on supported tokens.
+**Get Tokens:** Provides data on supported tokens.
 
-**getLiquidityPools:** Provides data on available liquidity pools.
+**Get Liquidity Pools:** Provides data on available liquidity pools.
 
-**getYieldMarkets:** Fetch information about available yield farming markets and opportunities.&#x20;
+**Get Yield Markets:** Fetch information about available yield farming markets and opportunities.&#x20;
 
-**getCapabilities:** Discover all tools and functionalities offered by the Ember MCP server, filterable by capability type. This helps in understanding the full scope of what the server can do (Protocol Information).
+**Get Capabilities:** Discover all tools and functionalities offered by the Ember MCP server, filterable by capability type. This helps in understanding the full scope of what the server can do (Protocol Information).
 
 </details>
 
@@ -61,9 +58,9 @@
 
 <summary>Wallet Context &#x26; Position Management</summary>
 
-**getUserPositions:** Retrieve a comprehensive overview of a user's wallet positions across various DeFi protocols, including balances, supplied assets, borrowed amounts, and staked assets. This is a core Wallet Context capability.
+**Get User Positions:** Retrieve a comprehensive overview of a user's wallet positions across various DeFi protocols, including balances, supplied assets, borrowed amounts, and staked assets. This is a core Wallet Context capability.
 
-**getUserLiquidityPositions:** Specifically retrieves a user's positions in liquidity pools.
+**Get User Liquidity Positions:** Specifically retrieves a user's positions in liquidity pools.
 
 </details>
 

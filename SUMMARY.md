@@ -2,7 +2,7 @@
 
 ## Ember AI
 
-* [What is Ember?](README.md)
+* [Introduction](README.md)
 
 ## Workflow Library
 

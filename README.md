@@ -16,7 +16,7 @@ Ember's MCP-powered connectivity establishes a declarative DeFi layer, enabling 
 
 **Swap Tokens:** Exchange one token for another across numerous supported DEXs and chains.
 
-**Get Tokens:** Retrieve a list of supported tokens, filterable by chain ID and other criteria. This contributes to Market Data by providing information on available assets.
+**Get Tokens:** Retrieve a list of supported tokens, filterable by chain ID and other criteria.
 
 #### 2. Lending & Borrowing
 
@@ -30,13 +30,13 @@ Ember's MCP-powered connectivity establishes a declarative DeFi layer, enabling 
 
 #### 3. Liquidity Provision & Management
 
-**Supply Liquidity:** Supply assets to liquidity pools on DEXs (e.g., providing two tokens to a pair).
+**Supply Liquidity:** Supply assets to liquidity pools on DEXs.
 
 **Withdraw Liquidity:** Withdraw assets from a liquidity position in a pool.
 
 **Get Liquidity Pools:** Retrieve a list of available liquidity pools. This provides Market Data on available investment opportunities.
 
-**Get User Liquidity Positions:** Fetch a user's current liquidity positions. This is part of Wallet Context and Position Management.
+**Get User Liquidity Positions:** Fetch a user's current liquidity positions.&#x20;
 
 </details>
 
@@ -50,7 +50,7 @@ Ember's MCP-powered connectivity establishes a declarative DeFi layer, enabling 
 
 **Get Yield Markets:** Fetch information about available yield farming markets and opportunities.&#x20;
 
-**Get Capabilities:** Discover all tools and functionalities offered by the Ember MCP server, filterable by capability type. This helps in understanding the full scope of what the server can do (Protocol Information).
+**Get Capabilities:** Discover all tools and functionalities offered by the Ember MCP server, filterable by capability type. This helps in understanding the full scope of what the server can do.
 
 </details>
 
@@ -58,7 +58,7 @@ Ember's MCP-powered connectivity establishes a declarative DeFi layer, enabling 
 
 <summary>Wallet Context &#x26; Position Management</summary>
 
-**Get User Positions:** Retrieve a comprehensive overview of a user's wallet positions across various DeFi protocols, including balances, supplied assets, borrowed amounts, and staked assets. This is a core Wallet Context capability.
+**Get User Positions:** Retrieve a comprehensive overview of a user's wallet positions across various DeFi protocols, including balances, supplied assets, borrowed amounts, and staked assets.
 
 **Get User Liquidity Positions:** Specifically retrieves a user's positions in liquidity pools.
 
